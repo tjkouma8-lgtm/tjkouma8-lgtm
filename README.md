@@ -21,13 +21,13 @@ I implement models from scratch and calibrate them on real market data.
 
 | Project | Description | Stack |
 |---|---|---|
-| [Rough Volatility Model](https://github.com/tjkoum8/rough-volatility) | Rough Bergomi · fBm · Hurst calibration · ATM skew power-law | Python |
-| [Jump-Diffusion Pricing](https://github.com/tjkoum8/jump-diffusion-merton) | Merton PIDE · Monte Carlo · FFT Carr-Madan · S&P 500 smile | Python |
-| [Derivatives Pricing Engine](https://github.com/tjkoum8/derivatives-pricing-cpp) | Finite Differences (Crank-Nicolson) · Monte Carlo · OOP/STL | C++ |
-| [Equity Derivatives & Volatility](https://github.com/tjkoum8/equity-derivatives-vol) | Lifted Heston · Dupire · ARCH/GARCH · smile/skew | Python |
-| [Quant Equity Strategy](https://github.com/tjkoum8/quant-equity-strategy) | LASSO · Ridge · Boosting · Sharpe · IC · PCA | Python |
-| [Interest Rate Models](https://github.com/tjkoum8/interest-rate-models) | Vasicek · Ho-Lee · Hull-White · term structure | Python |
-| [Asian Option Pricing](https://github.com/tjkoum8/asian-option-pricing) | Transform methods · 2D model · semi-analytical formulas | Python |
+| [Rough Volatility Model](https://github.com/tjkoum8-lgtm/rough-volatility) | Rough Bergomi · fBm · Hurst calibration · ATM skew power-law | Python |
+| [Jump-Diffusion Pricing](https://github.com/tjkoum8-lgtm/jump-diffusion-merton) | Merton PIDE · Monte Carlo · FFT Carr-Madan · S&P 500 smile | Python |
+| [Derivatives Pricing Engine](https://github.com/tjkoum8-lgtm/derivatives-pricing-cpp) | Finite Differences (Crank-Nicolson) · Monte Carlo · OOP/STL | C++ |
+| [Equity Derivatives & Volatility](https://github.com/tjkoum8-lgtm/equity-derivatives-vol) | Lifted Heston · Dupire · ARCH/GARCH · smile/skew | Python |
+| [Quant Equity Strategy](https://github.com/tjkoum8-lgtm/quant-equity-strategy) | LASSO · Ridge · Boosting · Sharpe · IC · PCA | Python |
+| [Interest Rate Models](https://github.com/tjkoum8-lgtm/interest-rate-models) | Vasicek · Ho-Lee · Hull-White · term structure | Python |
+| [Asian Option Pricing](https://github.com/tjkoum8-lgtm/asian-option-pricing) | Transform methods · 2D model · semi-analytical formulas | Python |
 
 
 
